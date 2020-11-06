@@ -10,8 +10,12 @@ Git is free software.
 
 stupid me
 
+<<<<<<< HEAD
 ```
 
 Creating a new branch is quick and simple.
 
 ```
+=======
+一天又一天
+>>>>>>> dev
